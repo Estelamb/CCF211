@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estela/CLionProjects/PontoCartesiano/Ponto.c
+Ponto.h
+/home/estela/CLionProjects/PontoCartesiano/Ponto.h
+
+/home/estela/CLionProjects/PontoCartesiano/Ponto.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estela/CLionProjects/FiguraGeometrica/Figura.c
+Figura.h
+/home/estela/CLionProjects/FiguraGeometrica/Figura.h
+
+/home/estela/CLionProjects/FiguraGeometrica/Figura.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/estela/CLionProjects/FiguraGeometrica/main.c
+Figura.h
+/home/estela/CLionProjects/FiguraGeometrica/Figura.h
+

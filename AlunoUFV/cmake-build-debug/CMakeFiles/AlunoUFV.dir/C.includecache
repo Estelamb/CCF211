@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estela/CLionProjects/AlunoUFV/Aluno.c
+Aluno.h
+/home/estela/CLionProjects/AlunoUFV/Aluno.h
+
+/home/estela/CLionProjects/AlunoUFV/Aluno.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

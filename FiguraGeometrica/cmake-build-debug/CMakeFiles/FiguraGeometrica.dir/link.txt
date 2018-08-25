@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/FiguraGeometrica.dir/main.c.o CMakeFiles/FiguraGeometrica.dir/Figura.c.o  -o FiguraGeometrica -lm 
