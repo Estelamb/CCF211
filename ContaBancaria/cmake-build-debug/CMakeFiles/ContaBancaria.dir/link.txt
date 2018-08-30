@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/ContaBancaria.dir/main.c.o CMakeFiles/ContaBancaria.dir/ContaBancaria.c.o  -o ContaBancaria -lm 
