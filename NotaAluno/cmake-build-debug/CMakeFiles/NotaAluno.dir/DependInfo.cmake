@@ -4,8 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/estela/CLionProjects/NotaAluno/Aluno.c" "/home/estela/CLionProjects/NotaAluno/cmake-build-debug/CMakeFiles/NotaAluno.dir/Aluno.c.o"
-  "/home/estela/CLionProjects/NotaAluno/main.c" "/home/estela/CLionProjects/NotaAluno/cmake-build-debug/CMakeFiles/NotaAluno.dir/main.c.o"
+  "/home/estela/CCF 211/NotaAluno/Aluno.c" "/home/estela/CCF 211/NotaAluno/cmake-build-debug/CMakeFiles/NotaAluno.dir/Aluno.c.o"
+  "/home/estela/CCF 211/NotaAluno/main.c" "/home/estela/CCF 211/NotaAluno/cmake-build-debug/CMakeFiles/NotaAluno.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
