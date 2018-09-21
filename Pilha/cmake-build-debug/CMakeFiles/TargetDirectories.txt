@@ -1,3 +1,3 @@
-/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir
+/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir

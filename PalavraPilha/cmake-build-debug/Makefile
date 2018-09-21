@@ -48,10 +48,10 @@ RM = /opt/CLion-2018.2.1/clion-2018.2.1/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/home/estela/CCF 211/Pilha"
+CMAKE_SOURCE_DIR = /home/estela/CLionProjects/PalavraPilha
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/home/estela/CCF 211/Pilha/cmake-build-debug"
+CMAKE_BINARY_DIR = /home/estela/CLionProjects/PalavraPilha/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -80,9 +80,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/progress.marks"
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/estela/CLionProjects/PalavraPilha/cmake-build-debug/CMakeFiles /home/estela/CLionProjects/PalavraPilha/cmake-build-debug/CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/estela/CLionProjects/PalavraPilha/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -111,71 +111,44 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Pilha
+# Target rules for targets named PalavraPilha
 
 # Build rule for target.
-Pilha: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 Pilha
-.PHONY : Pilha
+PalavraPilha: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 PalavraPilha
+.PHONY : PalavraPilha
 
 # fast build rule for target.
-Pilha/fast:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/build
-.PHONY : Pilha/fast
+PalavraPilha/fast:
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/build
+.PHONY : PalavraPilha/fast
 
-TadAluno.o: TadAluno.c.o
+Pilha.o: Pilha.c.o
 
-.PHONY : TadAluno.o
-
-# target to build an object file
-TadAluno.c.o:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadAluno.c.o
-.PHONY : TadAluno.c.o
-
-TadAluno.i: TadAluno.c.i
-
-.PHONY : TadAluno.i
-
-# target to preprocess a source file
-TadAluno.c.i:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadAluno.c.i
-.PHONY : TadAluno.c.i
-
-TadAluno.s: TadAluno.c.s
-
-.PHONY : TadAluno.s
-
-# target to generate assembly for a file
-TadAluno.c.s:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadAluno.c.s
-.PHONY : TadAluno.c.s
-
-TadPilha.o: TadPilha.c.o
-
-.PHONY : TadPilha.o
+.PHONY : Pilha.o
 
 # target to build an object file
-TadPilha.c.o:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadPilha.c.o
-.PHONY : TadPilha.c.o
+Pilha.c.o:
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/Pilha.c.o
+.PHONY : Pilha.c.o
 
-TadPilha.i: TadPilha.c.i
+Pilha.i: Pilha.c.i
 
-.PHONY : TadPilha.i
+.PHONY : Pilha.i
 
 # target to preprocess a source file
-TadPilha.c.i:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadPilha.c.i
-.PHONY : TadPilha.c.i
+Pilha.c.i:
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/Pilha.c.i
+.PHONY : Pilha.c.i
 
-TadPilha.s: TadPilha.c.s
+Pilha.s: Pilha.c.s
 
-.PHONY : TadPilha.s
+.PHONY : Pilha.s
 
 # target to generate assembly for a file
-TadPilha.c.s:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/TadPilha.c.s
-.PHONY : TadPilha.c.s
+Pilha.c.s:
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/Pilha.c.s
+.PHONY : Pilha.c.s
 
 main.o: main.c.o
 
@@ -183,7 +156,7 @@ main.o: main.c.o
 
 # target to build an object file
 main.c.o:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/main.c.o
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/main.c.o
 .PHONY : main.c.o
 
 main.i: main.c.i
@@ -192,7 +165,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/main.c.i
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -201,7 +174,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) -f CMakeFiles/Pilha.dir/build.make CMakeFiles/Pilha.dir/main.c.s
+	$(MAKE) -f CMakeFiles/PalavraPilha.dir/build.make CMakeFiles/PalavraPilha.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -212,13 +185,10 @@ help:
 	@echo "... depend"
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
-	@echo "... Pilha"
-	@echo "... TadAluno.o"
-	@echo "... TadAluno.i"
-	@echo "... TadAluno.s"
-	@echo "... TadPilha.o"
-	@echo "... TadPilha.i"
-	@echo "... TadPilha.s"
+	@echo "... PalavraPilha"
+	@echo "... Pilha.o"
+	@echo "... Pilha.i"
+	@echo "... Pilha.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

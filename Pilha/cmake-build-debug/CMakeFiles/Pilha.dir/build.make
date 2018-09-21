@@ -43,10 +43,10 @@ RM = /opt/CLion-2018.2.1/clion-2018.2.1/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/estela/CLionProjects/Pilha
+CMAKE_SOURCE_DIR = "/home/estela/CCF 211/Pilha"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/estela/CLionProjects/Pilha/cmake-build-debug
+CMAKE_BINARY_DIR = "/home/estela/CCF 211/Pilha/cmake-build-debug"
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Pilha.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/Pilha.dir/flags.make
 
 CMakeFiles/Pilha.dir/main.c.o: CMakeFiles/Pilha.dir/flags.make
 CMakeFiles/Pilha.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Pilha.dir/main.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/main.c.o   -c /home/estela/CLionProjects/Pilha/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Pilha.dir/main.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/main.c.o   -c "/home/estela/CCF 211/Pilha/main.c"
 
 CMakeFiles/Pilha.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Pilha.dir/main.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/estela/CLionProjects/Pilha/main.c > CMakeFiles/Pilha.dir/main.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/estela/CCF 211/Pilha/main.c" > CMakeFiles/Pilha.dir/main.c.i
 
 CMakeFiles/Pilha.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Pilha.dir/main.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/estela/CLionProjects/Pilha/main.c -o CMakeFiles/Pilha.dir/main.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/estela/CCF 211/Pilha/main.c" -o CMakeFiles/Pilha.dir/main.c.s
 
 CMakeFiles/Pilha.dir/TadAluno.c.o: CMakeFiles/Pilha.dir/flags.make
 CMakeFiles/Pilha.dir/TadAluno.c.o: ../TadAluno.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Pilha.dir/TadAluno.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/TadAluno.c.o   -c /home/estela/CLionProjects/Pilha/TadAluno.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Pilha.dir/TadAluno.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/TadAluno.c.o   -c "/home/estela/CCF 211/Pilha/TadAluno.c"
 
 CMakeFiles/Pilha.dir/TadAluno.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Pilha.dir/TadAluno.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/estela/CLionProjects/Pilha/TadAluno.c > CMakeFiles/Pilha.dir/TadAluno.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/estela/CCF 211/Pilha/TadAluno.c" > CMakeFiles/Pilha.dir/TadAluno.c.i
 
 CMakeFiles/Pilha.dir/TadAluno.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Pilha.dir/TadAluno.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/estela/CLionProjects/Pilha/TadAluno.c -o CMakeFiles/Pilha.dir/TadAluno.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/estela/CCF 211/Pilha/TadAluno.c" -o CMakeFiles/Pilha.dir/TadAluno.c.s
 
 CMakeFiles/Pilha.dir/TadPilha.c.o: CMakeFiles/Pilha.dir/flags.make
 CMakeFiles/Pilha.dir/TadPilha.c.o: ../TadPilha.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Pilha.dir/TadPilha.c.o"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/TadPilha.c.o   -c /home/estela/CLionProjects/Pilha/TadPilha.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building C object CMakeFiles/Pilha.dir/TadPilha.c.o"
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Pilha.dir/TadPilha.c.o   -c "/home/estela/CCF 211/Pilha/TadPilha.c"
 
 CMakeFiles/Pilha.dir/TadPilha.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Pilha.dir/TadPilha.c.i"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /home/estela/CLionProjects/Pilha/TadPilha.c > CMakeFiles/Pilha.dir/TadPilha.c.i
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E "/home/estela/CCF 211/Pilha/TadPilha.c" > CMakeFiles/Pilha.dir/TadPilha.c.i
 
 CMakeFiles/Pilha.dir/TadPilha.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Pilha.dir/TadPilha.c.s"
-	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /home/estela/CLionProjects/Pilha/TadPilha.c -o CMakeFiles/Pilha.dir/TadPilha.c.s
+	/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S "/home/estela/CCF 211/Pilha/TadPilha.c" -o CMakeFiles/Pilha.dir/TadPilha.c.s
 
 # Object files for target Pilha
 Pilha_OBJECTS = \
@@ -110,7 +110,7 @@ Pilha: CMakeFiles/Pilha.dir/TadAluno.c.o
 Pilha: CMakeFiles/Pilha.dir/TadPilha.c.o
 Pilha: CMakeFiles/Pilha.dir/build.make
 Pilha: CMakeFiles/Pilha.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Pilha"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking C executable Pilha"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Pilha.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -123,6 +123,6 @@ CMakeFiles/Pilha.dir/clean:
 .PHONY : CMakeFiles/Pilha.dir/clean
 
 CMakeFiles/Pilha.dir/depend:
-	cd /home/estela/CLionProjects/Pilha/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/estela/CLionProjects/Pilha /home/estela/CLionProjects/Pilha /home/estela/CLionProjects/Pilha/cmake-build-debug /home/estela/CLionProjects/Pilha/cmake-build-debug /home/estela/CLionProjects/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir/DependInfo.cmake --color=$(COLOR)
+	cd "/home/estela/CCF 211/Pilha/cmake-build-debug" && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" "/home/estela/CCF 211/Pilha" "/home/estela/CCF 211/Pilha" "/home/estela/CCF 211/Pilha/cmake-build-debug" "/home/estela/CCF 211/Pilha/cmake-build-debug" "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir/DependInfo.cmake" --color=$(COLOR)
 .PHONY : CMakeFiles/Pilha.dir/depend
 

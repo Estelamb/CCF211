@@ -1,4 +1,4 @@
-# Install script for directory: /home/estela/CCF 211/Pilha
+# Install script for directory: /home/estela/CLionProjects/PalavraPilha
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/estela/CCF 211/Pilha/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/estela/CLionProjects/PalavraPilha/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

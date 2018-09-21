@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estela/CLionProjects/PalavraPilha/Pilha.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/estela/CLionProjects/PalavraPilha/main.c
+Pilha.h
+/home/estela/CLionProjects/PalavraPilha/Pilha.h
+

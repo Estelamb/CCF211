@@ -4,9 +4,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/estela/CCF 211/Pilha/TadAluno.c" "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir/TadAluno.c.o"
-  "/home/estela/CCF 211/Pilha/TadPilha.c" "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir/TadPilha.c.o"
-  "/home/estela/CCF 211/Pilha/main.c" "/home/estela/CCF 211/Pilha/cmake-build-debug/CMakeFiles/Pilha.dir/main.c.o"
+  "/home/estela/CLionProjects/PalavraPilha/Pilha.c" "/home/estela/CLionProjects/PalavraPilha/cmake-build-debug/CMakeFiles/PalavraPilha.dir/Pilha.c.o"
+  "/home/estela/CLionProjects/PalavraPilha/main.c" "/home/estela/CLionProjects/PalavraPilha/cmake-build-debug/CMakeFiles/PalavraPilha.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
