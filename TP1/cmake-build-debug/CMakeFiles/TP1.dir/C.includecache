@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/estela/CLionProjects/TP1/TAD_Item_Matriz.h
+TAD_Lista_de_Voos.h
+/home/estela/CLionProjects/TP1/TAD_Lista_de_Voos.h
+
+/home/estela/CLionProjects/TP1/TAD_Lista_de_Voos.h
+TAD_Voo.h
+/home/estela/CLionProjects/TP1/TAD_Voo.h
+
+/home/estela/CLionProjects/TP1/TAD_Matriz_Voos.h
+TAD_Item_Matriz.h
+/home/estela/CLionProjects/TP1/TAD_Item_Matriz.h
+
+/home/estela/CLionProjects/TP1/TAD_Voo.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/estela/CLionProjects/TP1/main.c
+TAD_Matriz_Voos.h
+/home/estela/CLionProjects/TP1/TAD_Matriz_Voos.h
+
