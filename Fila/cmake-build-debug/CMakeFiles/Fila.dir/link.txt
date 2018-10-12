@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Fila.dir/main.c.o CMakeFiles/Fila.dir/Paciente.c.o CMakeFiles/Fila.dir/Fila.c.o  -o Fila -lm 
