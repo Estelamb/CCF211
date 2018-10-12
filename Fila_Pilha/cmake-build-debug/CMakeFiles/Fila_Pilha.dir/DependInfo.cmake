@@ -1,0 +1,23 @@
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  "C"
+  )
+# The set of files for implicit dependencies of each language:
+set(CMAKE_DEPENDS_CHECK_C
+  "/home/estela/CLionProjects/Fila_Pilha/Fila.c" "/home/estela/CLionProjects/Fila_Pilha/cmake-build-debug/CMakeFiles/Fila_Pilha.dir/Fila.c.o"
+  "/home/estela/CLionProjects/Fila_Pilha/Palavra.c" "/home/estela/CLionProjects/Fila_Pilha/cmake-build-debug/CMakeFiles/Fila_Pilha.dir/Palavra.c.o"
+  "/home/estela/CLionProjects/Fila_Pilha/Pilha.c" "/home/estela/CLionProjects/Fila_Pilha/cmake-build-debug/CMakeFiles/Fila_Pilha.dir/Pilha.c.o"
+  "/home/estela/CLionProjects/Fila_Pilha/main.c" "/home/estela/CLionProjects/Fila_Pilha/cmake-build-debug/CMakeFiles/Fila_Pilha.dir/main.c.o"
+  )
+set(CMAKE_C_COMPILER_ID "GNU")
+
+# The include file search paths:
+set(CMAKE_C_TARGET_INCLUDE_PATH
+  )
+
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")

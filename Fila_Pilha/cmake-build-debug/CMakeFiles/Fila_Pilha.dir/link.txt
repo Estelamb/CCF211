@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/Fila_Pilha.dir/main.c.o CMakeFiles/Fila_Pilha.dir/Palavra.c.o CMakeFiles/Fila_Pilha.dir/Pilha.c.o CMakeFiles/Fila_Pilha.dir/Fila.c.o  -o Fila_Pilha -lm 
