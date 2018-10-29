@@ -1,3 +1,0 @@
-/home/estela/CLionProjects/ContaBancaria/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estela/CLionProjects/ContaBancaria/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estela/CLionProjects/ContaBancaria/cmake-build-debug/CMakeFiles/ContaBancaria.dir

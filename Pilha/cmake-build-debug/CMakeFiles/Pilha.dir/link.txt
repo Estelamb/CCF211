@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/Pilha.dir/main.c.o CMakeFiles/Pilha.dir/TadAluno.c.o CMakeFiles/Pilha.dir/TadPilha.c.o  -o Pilha -lm 

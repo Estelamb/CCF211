@@ -1,3 +1,0 @@
-/home/estela/CCF 211/AlunoUFV/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estela/CCF 211/AlunoUFV/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estela/CCF 211/AlunoUFV/cmake-build-debug/CMakeFiles/AlunoUFV.dir

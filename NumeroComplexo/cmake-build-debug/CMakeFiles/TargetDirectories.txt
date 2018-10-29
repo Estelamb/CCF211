@@ -1,3 +1,0 @@
-/home/estela/CLionProjects/NumeroComplexo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estela/CLionProjects/NumeroComplexo/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estela/CLionProjects/NumeroComplexo/cmake-build-debug/CMakeFiles/NumeroComplexo.dir

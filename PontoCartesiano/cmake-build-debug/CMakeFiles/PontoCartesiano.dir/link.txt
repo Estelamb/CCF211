@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/PontoCartesiano.dir/main.c.o CMakeFiles/PontoCartesiano.dir/Ponto.c.o  -o PontoCartesiano -lm 

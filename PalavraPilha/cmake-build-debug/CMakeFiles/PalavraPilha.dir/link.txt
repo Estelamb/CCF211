@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/PalavraPilha.dir/main.c.o CMakeFiles/PalavraPilha.dir/Pilha.c.o  -o PalavraPilha -lm 

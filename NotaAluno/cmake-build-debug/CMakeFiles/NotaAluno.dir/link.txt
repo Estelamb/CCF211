@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/NotaAluno.dir/main.c.o CMakeFiles/NotaAluno.dir/Aluno.c.o  -o NotaAluno -lm 

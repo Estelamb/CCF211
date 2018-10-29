@@ -1,1 +1,0 @@
-/usr/bin/cc -g   CMakeFiles/NumeroComplexo.dir/main.c.o CMakeFiles/NumeroComplexo.dir/NumeroComplexo.c.o  -o NumeroComplexo -lm 

@@ -1,3 +1,0 @@
-/home/estela/CCF 211/NotaAluno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/estela/CCF 211/NotaAluno/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/estela/CCF 211/NotaAluno/cmake-build-debug/CMakeFiles/NotaAluno.dir
