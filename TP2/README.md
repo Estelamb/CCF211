@@ -1,4 +1,4 @@
-# CCF211
+# Caixeiro Viajante Simplificado
 Exercícios e trabalhos práticos apresentados à disciplina de "Algoritmos e Estruturas de Dados 1" da Universidade Federal de Viçosa - Campus Florestal
 
 
