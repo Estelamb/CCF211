@@ -6,5 +6,5 @@ Exercícios e trabalhos práticos apresentados à disciplina de "Algoritmos e Es
 ## Licença
 
 O Projeto é distribuido sob a GPL-3.0.
-Veja [LICENSE](https://github.com/Globson/TP-3-AEDS_Ordenacoes-em-diferentes-cenarios/blob/master/LICENSE) para mais informações.
+Veja [LICENSE](https://github.com/Estelamb/CCF211/blob/master/LICENSE) para mais informações.
 
