@@ -1,4 +1,4 @@
-# CCF211
+# CCF 211
 
 Exercícios e trabalhos práticos apresentados à disciplina de "Algoritmos e Estruturas de Dados 1" da Universidade Federal de Viçosa - Campus Florestal
 
@@ -6,7 +6,7 @@ Exercícios e trabalhos práticos apresentados à disciplina de "Algoritmos e Es
 
 
 
-#### Sobre os Trabalhos Realizados
+## Sobre os Trabalhos Realizados
 
 1. **Sistema de Aeroporto - Matriz de Voos:** O trabalho consistiu em realizar a criação de uma matriz de voos, em que cada posição posição da matriz representava uma faixa de horários do dia, sendo que em cada posição encontravasse uma lista encadeada com a listagem dos voos naquela faixa de horários.
 
@@ -16,7 +16,7 @@ Exercícios e trabalhos práticos apresentados à disciplina de "Algoritmos e Es
 
    #####  
 
-#### Sobre as Atividades Práticas
+## Sobre as Atividades Práticas
 
 Foram realizadas atividades práticas para reforçar os conhecimentos recebidos em sala de aula das seguintes Estruturas de Dados:
 
@@ -34,9 +34,13 @@ Foram realizadas atividades práticas para reforçar os conhecimentos recebidos 
 
    
 
-#### Bibliografia
+## Bibliografia
 
  N. Ziviani, Projeto de Algoritmos com Implementações em Pascal e C, 3a ed., Cengage Learning, 2010.
+
+## Contribuições 
+
+**João Marcos Alves Modesto** - [raitoncan](https://github.com/raitocan)  Foi um dos autores do Segundo Trabalho Prático.
 
 ## Licença
 
