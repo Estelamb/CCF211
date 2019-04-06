@@ -32,6 +32,8 @@ Foram realizadas atividades práticas para reforçar os conhecimentos recebidos 
 
 6. Fila por Apontadores
 
+7. Algoritmos de Ordenação: BubbleSort, SelectSort, InsertSort, ShellSort, QuickSort e HeapSort
+
    
 
 ## Bibliografia
