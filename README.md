@@ -42,7 +42,7 @@ Foram realizadas atividades práticas para reforçar os conhecimentos recebidos 
 
 ## Contribuições 
 
-**João Marcos Alves Modesto** - [raitoncan](https://github.com/raitocan)  Foi um dos autores do Segundo Trabalho Prático.
+**João Marcos Alves Modesto** - [raitocan](https://github.com/raitocan)  Foi um dos autores do Segundo Trabalho Prático.
 
 ## Licença
 
