@@ -13,6 +13,6 @@ Veja [LICENSE](https://github.com/Globson/TP-3-AEDS_Ordenacoes-em-diferentes-cen
 ## Autores
 
 - **Elida Emelly**
-- **João Marcos Alves Modesto** - [raitoncan](https://github.com/raitocan)
+- **João Marcos Alves Modesto** - [raitocan](https://github.com/raitocan)
 - **Estela Miranda** -   [Estelamb](https://github.com/Estelamb)
 
